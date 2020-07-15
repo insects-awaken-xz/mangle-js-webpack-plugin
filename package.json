@@ -34,9 +34,6 @@
   "bugs": {
     "url": "https://github.com/liberalist1991/mangle-js-webpack-plugin/issues"
   },
-  "dependencies": {
-    "javascript-obfuscator": "^0.18.1"
-  },
   "description": "支持3种加密算法： `aaencode` `jjencode` `obfuscator JS`(默认)",
   "devDependencies": {
     "jasmine": "^3.1.0",
