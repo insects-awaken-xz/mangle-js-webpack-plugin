@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      "mangle-js-webpack-plugin@0.1.4",
+      "/Users/Darren/Code/javascript/wx-app/applet-car-opening-quotation"
+    ]
+  ],
+  "_development": true,
+  "_from": "mangle-js-webpack-plugin@0.1.4",
+  "_id": "mangle-js-webpack-plugin@0.1.4",
+  "_inBundle": false,
+  "_integrity": "sha1-sZUM2Ah/d2C08KmRAuy2C9CMLgw=",
+  "_location": "/mangle-js-webpack-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "mangle-js-webpack-plugin@0.1.4",
+    "name": "mangle-js-webpack-plugin",
+    "escapedName": "mangle-js-webpack-plugin",
+    "rawSpec": "0.1.4",
+    "saveSpec": null,
+    "fetchSpec": "0.1.4"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/mangle-js-webpack-plugin/download/mangle-js-webpack-plugin-0.1.4.tgz",
+  "_spec": "0.1.4",
+  "_where": "/Users/Darren/Code/javascript/wx-app/applet-car-opening-quotation",
+  "author": {
+    "name": "thinkzhan"
+  },
+  "bugs": {
+    "url": "https://github.com/liberalist1991/mangle-js-webpack-plugin/issues"
+  },
+  "dependencies": {
+    "javascript-obfuscator": "^0.18.1"
+  },
+  "description": "支持3种加密算法： `aaencode` `jjencode` `obfuscator JS`(默认)",
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "rimraf": "^2.6.2",
+    "webpack": "^4.12.0"
+  },
+  "files": [
+    "lib",
+    "index.js",
+    "util",
+    "spec"
+  ],
+  "homepage": "https://github.com/liberalist1991/mangle-js-webpack-plugin#readme",
+  "keywords": [
+    "Webpack",
+    "js",
+    "minify",
+    "mangle"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "mangle-js-webpack-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liberalist1991/mangle-js-webpack-plugin.git"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "version": "0.1.4"
+}
